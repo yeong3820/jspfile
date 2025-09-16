@@ -1,0 +1,25 @@
+# 이클립스 관련 파일
+.metadata/
+.recommenders/
+.settings/
+*.launch
+*.project
+*.prefs
+
+# 톰캣 서버 관련 파일
+webapps/
+wtpwebapps/
+Servers/
+
+# 빌드 및 컴파일 관련
+build/
+target/
+bin/
+classes/
+*.class
+
+# 기타 운영체제 파일
+.DS_Store
+Thumbs.db
+
+ymjsp/
