@@ -1,3 +1,16 @@
+# 프로젝트 내 모든 파일과 폴더를 무시합니다.
+*
+
+# src 폴더만 무시하지 않고 추적합니다.
+!/src/
+# src/main 폴더를 무시하지 않습니다.
+!/src/main/
+# src/main/webapp 폴더를 무시하지 않습니다.
+!/src/main/webapp/
+# src/main/webapp/sorce 폴더는 무시하지 않습니다.
+!/src/main/webapp/sorce/
+
+
 # 이클립스 관련 파일
 .metadata/
 .recommenders/
@@ -23,4 +36,3 @@ classes/
 Thumbs.db
 
 ymjsp/
-!/src/main/webapp/sorce/
